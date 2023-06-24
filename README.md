@@ -57,10 +57,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-pink?style=for-the-badge&logo=codepen&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23593d88.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-%2320232a.svg?style=for-the-badge&logo=Mocha&logoColor=%2361DAFB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <hr>
 
