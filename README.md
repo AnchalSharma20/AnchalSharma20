@@ -24,7 +24,7 @@
       </a> 
     </div>
   </h3>
-    <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+    <img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
     
 
     
@@ -60,14 +60,15 @@
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23593d88.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-%2320232a.svg?style=for-the-badge&logo=Mocha&logoColor=%2361DAFB)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <hr>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anchalsharma20&theme=radical&hide_border=flase&show_icons=true" alt="anchalsharma20" />
+
 ![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anchalsharma20&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anchalsharma20&theme=radical&hide_border=flase&show_icons=true)](https://git.io/streak-stats)
 
 
