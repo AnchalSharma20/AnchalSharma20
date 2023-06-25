@@ -55,7 +55,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-pink?style=for-the-badge&logo=codepen&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23593d88.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-%2320232a.svg?style=for-the-badge&logo=Mocha&logoColor=%2361DAFB)
