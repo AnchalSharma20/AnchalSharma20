@@ -1,5 +1,7 @@
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalsharma20&label=Profile%20views&color=0e75b6&style=flat" alt="anchalsharma20" /> </p>
+
+<!--
 <h1 align="center">Hi👋, I'm Anchal Sharma</h1>
 
 <h4 align="center">I am a final year B.Tech. Student, Learning Full Stack Java Development & Full Stack Web Development[MERN]</h4>
