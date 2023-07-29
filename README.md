@@ -1,4 +1,4 @@
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalsharma20&label=Profile%20views&color=0e75b6&style=flat" alt="anchalsharma20" /> </p>
 
 
@@ -49,17 +49,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%2320232a.svg?style=for-the-badge&logo=Kubernetes&logoColor=%2361DAFB)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23593d88.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-pink?style=for-the-badge&logo=codepen&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23593d88.svg?style=for-the-badge&logo=git&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-%2320232a.svg?style=for-the-badge&logo=Mocha&logoColor=%2361DAFB)
 
 <hr>
 
