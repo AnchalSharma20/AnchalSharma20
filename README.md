@@ -39,6 +39,7 @@
 ![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Springboot-%23CB3837.svg?style=for-the-badge&logo=Springboot)
 <h2></h2>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anchalsharma20&theme=radical&hide_border=flase&show_icons=true" alt="anchalsharma20" />
 
