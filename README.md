@@ -21,7 +21,7 @@
       </a> 
     </div>
   </h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+<img align="right" alt="coding" width="410" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
     
 
 <p align="left">
@@ -38,7 +38,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Springboot-%23CB3837.svg?style=for-the-badge&logo=Springboot)
-<hr>
+<h2></h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anchalsharma20&theme=radical&hide_border=flase&show_icons=true" alt="anchalsharma20" />
 
