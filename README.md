@@ -1,4 +1,4 @@
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalsharma20&label=Profile%20views&color=0e75b6&style=flat" alt="anchalsharma20" /> </p>
 
 
@@ -6,8 +6,7 @@
 
 <h4 align="center">I am a final year B.Tech. Student, Learning Full Stack Java Development & Full Stack Web Development[MERN]</h4>
 
-
-   <h3 align="center">
+  <h3 align="center">
        <div id="badges">
       <a href="https://linkedin.com/in/anchal-iitg" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
@@ -23,23 +22,16 @@
       </a> 
     </div>
   </h3>
-    <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
     
 
-    
-<p align="left"> 
-    <h3 align="left"> Languages, Tools & Technologies :</h3>
-    <hr>
-    
-
+<p align="left">
+<h2>Tech Stack :</h2>
+   
 ![JavaScript](https://img.shields.io/badge/javascript-007396.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-025E8C.svg?style=for-the-badge&logo=Bootstrap)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,7 +42,6 @@
 
 <hr>
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anchalsharma20&theme=radical&hide_border=flase&show_icons=true" alt="anchalsharma20" />
 
 ![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anchalsharma20&show_icons=true&theme=radical)
@@ -58,7 +49,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anchalsharma20&theme=radical&hide_border=flase&show_icons=true)](https://git.io/streak-stats)
 
 
-
-### ✍️ Random Dev Quote   
+### ✍️ Random Dev Quote : 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
