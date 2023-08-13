@@ -21,7 +21,7 @@
       </a> 
     </div>
   </h3>
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
     
 
 <p align="left">
