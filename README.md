@@ -28,17 +28,17 @@
 <h2>Tech Stack :</h2>
    
 ![JavaScript](https://img.shields.io/badge/javascript-007396.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<img alt="Java" height="27"  src="https://custom-icon-badges.demolab.com/badge/Java-%23323330.svg?logo=java&logoColor=white"></a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img alt="Java" height="27"  src="https://custom-icon-badges.demolab.com/badge/Java-%23323330.svg?logo=java&logoColor=white"></a>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Springboot-%23CB3837.svg?style=for-the-badge&logo=Springboot)
-
+<hr>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anchalsharma20&theme=radical&hide_border=flase&show_icons=true" alt="anchalsharma20" />
 
