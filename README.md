@@ -1,4 +1,4 @@
-<!--
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalsharma20&label=Profile%20views&color=0e75b6&style=flat" alt="anchalsharma20" /> </p>
 
@@ -18,9 +18,6 @@
        <a href="https://linkedin.com/in/anchal-iitg" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://www.leetcode.com/_anchalsharma" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-      </a> 
     </div>
   </h3>
 <img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
@@ -53,4 +50,3 @@
 ### ✍️ Random Dev Quote : 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
--->
