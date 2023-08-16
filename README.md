@@ -40,6 +40,8 @@
 <h2></h2>
 </p>
 
+### ✍️ Random Dev Quote : 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anchalsharma20&theme=radical&hide_border=flase&show_icons=true" alt="anchalsharma20" />
@@ -50,5 +52,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anchalsharma20&theme=radical&hide_border=flase&show_icons=true)](https://git.io/streak-stats)
 
 
-### ✍️ Random Dev Quote : 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
