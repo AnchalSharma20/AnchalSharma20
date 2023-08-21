@@ -15,7 +15,7 @@
       <a href="https://hashnode.com/@anchal20" target="_blank">
         <img src="https://img.shields.io/badge/Hashnode-pink?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashNode Badge"/>
       </a>
-       <a href="https://linkedin.com/in/anchal-iitg" target="_blank">
+       <a href="https://linkedin.com/in/anchal1192" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
       </a>
     </div>
