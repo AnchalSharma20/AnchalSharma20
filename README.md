@@ -1,5 +1,3 @@
-<!--
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalsharma20&label=Profile%20views&color=0e75b6&style=flat" alt="anchalsharma20" /> </p>
 
 
@@ -39,7 +37,5 @@
 ![Springboot](https://img.shields.io/badge/Springboot-%23CB3837.svg?style=for-the-badge&logo=Springboot)
 <h2></h2>
 </p>
-
--->
 
 
