@@ -8,7 +8,7 @@
 -->
 
 
-<h3 align="center">I am a final year B.Tech. Student, Learning Full Stack Java Development & Full Stack Web Development[MERN]</h3>
+<h4 align="center">I am a final year B.Tech. Student, Learning Full Stack Java Development & Full Stack Web Development[MERN]</h4>
 
   <h3 align="center">
        <div id="badges">
