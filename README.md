@@ -27,7 +27,6 @@
     
 
 <p align="left">
- <h2>contact with me</h2>
  
   <div id="badges">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anchalshaurya20@gmail.com" target="_blank">
