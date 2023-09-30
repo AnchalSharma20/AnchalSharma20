@@ -8,7 +8,7 @@
 -->
 
 
-<p align="center">I am a final year B.Tech. Student, Learning Full Stack Java Development & Full Stack Web Development[MERN]</p>
+<h3 align="center">I am a final year B.Tech. Student, Learning Full Stack Java Development & Full Stack Web Development[MERN]</h3>
 
   <h3 align="center">
        <div id="badges">
@@ -57,7 +57,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 
 
