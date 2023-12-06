@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="370" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
     
 <p align="left">
-  <h2>Contact with me :</h2>
+  <h2>Contact with me:</h2>
   <div id="badges">
       <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anchalshaurya20@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
@@ -24,7 +24,7 @@
       </a> 
     </div>
     
-<h2>Tech Stack :</h2>
+<h2>Tech Stack:</h2>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
